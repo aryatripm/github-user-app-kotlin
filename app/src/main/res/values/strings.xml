@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="user_avatar">User Avatar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="Following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="personalization">Personalization</string>
+    <string name="data_kosong">Data kosong. Silakan tambahkan data terlebih dahulu untuk melanjutkan.</string>
+</resources>
